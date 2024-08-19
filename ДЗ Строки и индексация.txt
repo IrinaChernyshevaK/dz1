@@ -1,0 +1,7 @@
+exsample="–¿«–¿¡Œ“◊» "
+print(exsample[0])
+print(exsample[-1])
+a=len(exsample)//2+1
+print(exsample[a:])
+print(exsample[::-1])
+print(exsample[1::2])
